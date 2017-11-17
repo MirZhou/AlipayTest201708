@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="alipaySdk-20170725">
+    <archive path="F:/Workspace/IDEA/AlipayTest201708/app/libs/alipaySdk-20170725.jar" />
+  </library>
+  <library name="android-support-v13">
+    <archive path="F:/Workspace/IDEA/AlipayTest201708/app/libs/android-support-v13.jar" />
+  </library>
+  <library name="animated-vector-drawable-26.0.0-alpha1">
+    <archive path="C:/Users/win/.android/build-cache/fa9ddc83b64b3613786f8ef909ed204f76f5d62e/output/jars/classes.jar" />
+    <archive path="C:/Users/win/.android/build-cache/fa9ddc83b64b3613786f8ef909ed204f76f5d62e/output/res" />
+  </library>
+  <library name="appcompat-v7-26.0.0-alpha1">
+    <archive path="C:/Users/win/.android/build-cache/e08dfeaf7749d5b7b046c37b544a021ad6d19b45/output/jars/classes.jar" />
+    <archive path="C:/Users/win/.android/build-cache/e08dfeaf7749d5b7b046c37b544a021ad6d19b45/output/res" />
+  </library>
+  <library name="constraint-layout-1.0.2">
+    <archive path="C:/Users/win/.android/build-cache/ca8ccb7fcfaceead9489e5d850f59fa7ea45ca81/output/res" />
+    <archive path="C:/Users/win/.android/build-cache/ca8ccb7fcfaceead9489e5d850f59fa7ea45ca81/output/jars/classes.jar" />
+  </library>
+  <library name="constraint-layout-solver-1.0.2">
+    <archive path="D:/Software/AndroidSDK/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar" />
+  </library>
+  <library name="espresso-core-2.2.2">
+    <archive path="C:/Users/win/.android/build-cache/2c62c3b0ebd61f5fbfc5fc454b3c6becab4f9908/output/res" />
+    <archive path="C:/Users/win/.android/build-cache/2c62c3b0ebd61f5fbfc5fc454b3c6becab4f9908/output/jars/classes.jar" />
+  </library>
+  <library name="espresso-idling-resource-2.2.2">
+    <archive path="C:/Users/win/.android/build-cache/b214aeed34d53f8a3c78d92a61fd0c78a230fa2e/output/jars/classes.jar" />
+    <archive path="C:/Users/win/.android/build-cache/b214aeed34d53f8a3c78d92a61fd0c78a230fa2e/output/res" />
+  </library>
+  <library name="exposed-instrumentation-api-publish-0.5">
+    <archive path="C:/Users/win/.android/build-cache/6e72224d43e7147705f6fe7201d5dfa2e50352a7/output/jars/classes.jar" />
+    <archive path="C:/Users/win/.android/build-cache/6e72224d43e7147705f6fe7201d5dfa2e50352a7/output/res" />
+  </library>
+  <library name="gson-2.8.1">
+    <archive path="C:/Users/win/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.1/2a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0/gson-2.8.1.jar" />
+  </library>
+  <library name="hamcrest-core-1.3">
+    <archive path="C:/Users/win/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar" />
+  </library>
+  <library name="hamcrest-integration-1.3">
+    <archive path="C:/Users/win/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-integration/1.3/5de0c73fef18917cd85d0ab70bb23818685e4dfd/hamcrest-integration-1.3.jar" />
+  </library>
+  <library name="hamcrest-library-1.3">
+    <archive path="C:/Users/win/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-library/1.3/4785a3c21320980282f9f33d0d1264a69040538f/hamcrest-library-1.3.jar" />
+  </library>
+  <library name="javawriter-2.1.1">
+    <archive path="C:/Users/win/.gradle/caches/modules-2/files-2.1/com.squareup/javawriter/2.1.1/67ff45d9ae02e583d0f9b3432a5ebbe05c30c966/javawriter-2.1.1.jar" />
+  </library>
+  <library name="javax.annotation-api-1.2">
+    <archive path="C:/Users/win/.gradle/caches/modules-2/files-2.1/javax.annotation/javax.annotation-api/1.2/479c1e06db31c432330183f5cae684163f186146/javax.annotation-api-1.2.jar" />
+  </library>
+  <library name="javax.inject-1">
+    <archive path="C:/Users/win/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar" />
+  </library>
+  <library name="jsr305-2.0.1">
+    <archive path="C:/Users/win/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar" />
+  </library>
+  <library name="junit-4.12">
+    <archive path="C:/Users/win/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar" />
+  </library>
+  <library name="rules-0.5">
+    <archive path="C:/Users/win/.android/build-cache/3d53c633144fd9c2a89fc49ceaae98c072eded32/output/res" />
+    <archive path="C:/Users/win/.android/build-cache/3d53c633144fd9c2a89fc49ceaae98c072eded32/output/jars/classes.jar" />
+  </library>
+  <library name="runner-0.5">
+    <archive path="C:/Users/win/.android/build-cache/98622ff6bdfa18409b44bbf36a07356118a688cd/output/jars/classes.jar" />
+    <archive path="C:/Users/win/.android/build-cache/98622ff6bdfa18409b44bbf36a07356118a688cd/output/res" />
+  </library>
+  <library name="support-annotations-26.0.0-alpha1">
+    <archive path="D:/Software/AndroidSDK/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar" />
+  </library>
+  <library name="support-compat-26.0.0-alpha1">
+    <archive path="C:/Users/win/.android/build-cache/871ef870a5d1dc5ad47aedb038636bac39ec2817/output/jars/classes.jar" />
+    <archive path="C:/Users/win/.android/build-cache/871ef870a5d1dc5ad47aedb038636bac39ec2817/output/res" />
+  </library>
+  <library name="support-core-ui-26.0.0-alpha1">
+    <archive path="C:/Users/win/.android/build-cache/e591c13140a872a5f26e5f3438252224795c0180/output/jars/classes.jar" />
+    <archive path="C:/Users/win/.android/build-cache/e591c13140a872a5f26e5f3438252224795c0180/output/res" />
+  </library>
+  <library name="support-core-utils-26.0.0-alpha1">
+    <archive path="C:/Users/win/.android/build-cache/3010010a15930e3bb2fe4c0dc007464aba8d6b2b/output/jars/classes.jar" />
+    <archive path="C:/Users/win/.android/build-cache/3010010a15930e3bb2fe4c0dc007464aba8d6b2b/output/res" />
+  </library>
+  <library name="support-fragment-26.0.0-alpha1">
+    <archive path="C:/Users/win/.android/build-cache/5bdb07bae4749f81a0ebca68959b0b81f7c1f7fe/output/res" />
+    <archive path="C:/Users/win/.android/build-cache/5bdb07bae4749f81a0ebca68959b0b81f7c1f7fe/output/jars/classes.jar" />
+  </library>
+  <library name="support-media-compat-26.0.0-alpha1">
+    <archive path="C:/Users/win/.android/build-cache/8b5ab3edd62801f0ff8436e800786bf34959a898/output/res" />
+    <archive path="C:/Users/win/.android/build-cache/8b5ab3edd62801f0ff8436e800786bf34959a898/output/jars/classes.jar" />
+  </library>
+  <library name="support-v4-26.0.0-alpha1">
+    <archive path="C:/Users/win/.android/build-cache/bd0605a4e273a574df85e6ddeb491458a833334c/output/res" />
+    <archive path="C:/Users/win/.android/build-cache/bd0605a4e273a574df85e6ddeb491458a833334c/output/jars/classes.jar" />
+  </library>
+  <library name="support-vector-drawable-26.0.0-alpha1">
+    <archive path="C:/Users/win/.android/build-cache/526ae64049dc856bcba1261f0bf47174a13068a6/output/jars/classes.jar" />
+    <archive path="C:/Users/win/.android/build-cache/526ae64049dc856bcba1261f0bf47174a13068a6/output/res" />
+  </library>
+</eclipse-userlibraries>
+
